@@ -7,5 +7,6 @@ This repository contains some codes for the computational neuroscience.
 
 
 ### SPM 5 Tutorial
-- DICOM Import [go to the file](SPM/01_SPM5_dicom_import.ipynb)
+- [DICOM Import](SPM/01_SPM5_dicom_import.ipynb)
+- [Check Image Registration](SPM/02_SPM5_check_image_registration.ipynb)
 
